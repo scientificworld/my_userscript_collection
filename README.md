@@ -14,7 +14,7 @@
 
 - [Fast Scroll](https://bgm.tv/dev/app/2559)
 - [一緒に跳ねよう！](https://bgm.tv/dev/app/2571) (deprecated)
-- [ID加关联](https://bgm.tv/dev/app/2677) (deprecated, use `bgm\_id=` instead)
+- [ID加关联](https://bgm.tv/dev/app/2677) (deprecated, use `bgm_id=` instead)
 - [+1 Reforged](https://bgm.tv/dev/app/2681)
 - [CV Info Fallback](https://bgm.tv/dev/app/2787)
 - [热门条目](https://bgm.tv/dev/app/3114)
