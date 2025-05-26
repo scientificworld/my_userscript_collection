@@ -1,0 +1,25 @@
+a.reply-plus-one {
+  display: inline-block;
+  margin: 0;
+  padding: 0 3px;
+  border: 1px solid #ccc;
+  line-height: 12px;
+  border-radius: 3px;
+  color: #ccc;
+  cursor: pointer;
+}
+
+a.reply-plus-one:hover {
+  background-color: #bbb;
+  color: #fff;
+}
+
+.reply-plus-loading {
+  display: inline-block;
+  margin: 0;
+  height: 12px;
+  width: 12px;
+  background-image: url(/img/loading_s.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -1,0 +1,6 @@
+span.fakeLink {
+    color: #444;
+}
+html[data-theme='dark'] span.fakeLink {
+    color: #EEE;
+}
